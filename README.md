@@ -2,9 +2,9 @@
 <p align="center"><img src="https://img.shields.io/static/v1?label=Status&message=Em Construção 🚧&color=7159c1&style=for-the-badge&logo=ghost"/></p>
 
 ## Requisitos iniciais
-1- Obter a versão, de preferência, mais recente da Arduino IDE.
+1. Obter a versão, de preferência, mais recente da Arduino IDE.
 
-2- Placa de desenvolvimento ATOM Lite.
+2. Placa de desenvolvimento ATOM Lite.
 
 ## Preparação do ambiente
 1. Selecione:
@@ -14,11 +14,14 @@
 https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
 ```
 
-2.  Selecione Tools -> Development Board -> Development Board Manager, procure por M5Stack e Instale.
+2.  Selecione:
+   - Tools -> Development Board -> Development Board Manager, procure por M5Stack e Instale.
 
-3. Selecione Tools -> Development board -> M5Stack Arduino e estolha a placa que está sendo utilizada no projeto (M5Stack-Atom).
+3. Selecione: 
+   - Tools -> Development board -> M5Stack Arduino e estolha a placa que está sendo utilizada no projeto (M5Stack-Atom).
 
-4. Selecione Project -> Load Library -> Library Management, pesquise por M5Atom e instale.
+4. Selecione: 
+   - Project -> Load Library -> Library Management, pesquise por M5Atom e instale.
 
 ## Vídeo
 
