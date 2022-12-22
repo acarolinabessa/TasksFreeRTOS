@@ -1,13 +1,14 @@
 # Projeto FreeRTOS
 <p align="center"><img src="https://img.shields.io/static/v1?label=Status&message=Em Construção 🚧&color=7159c1&style=for-the-badge&logo=ghost"/></p>
 
-## Requisitos
-- Obter a versão, de preferência, mais recente da Arduino IDE.
+## Requisitos iniciais
+1- Obter a versão, de preferência, mais recente da Arduino IDE.
 
-- Placa de desenvolvimento ATOM Lite.
+2- Placa de desenvolvimento ATOM Lite.
 
 ## Preparação do ambiente
-1. Selecione File -> Preferences -> Additional Development Board Manager e coloque o link a seguir:
+1. Selecione:
+   - File -> Preferences -> Additional Development Board Manager e coloque o link a seguir:
 
 ```sh
 https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
