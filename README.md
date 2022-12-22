@@ -32,5 +32,6 @@ https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_in
      <td align="center"><a href="https://github.com/RomuloPj"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80053233?v=4" width="100px;" alt=""/><br /><sub><b>Rômulo Passos</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/ItaloRLima"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80054825?v=4" width="100px;" alt=""/><br /><sub><b>Ítalo Roberto</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/PedroTomazeti"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80048556?v=4?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Lucas</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/lucasvinicius_fr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80048556?v=4?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Vinicius</b></sub></a><br /></td>
    </tr>
  </table>
