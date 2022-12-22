@@ -19,10 +19,12 @@ void brilho(int intensidade) {
   M5.dis.setBrightness(intensidade); 
 }
 
+// Define a cor do Led
 void cor() {
   M5.dis.fillpix(0xFFFF00); // Amarelo
 }
 
+// Apaga todos os LEDs acesos
 void limpar() {
   M5.dis.clear();  
 }
