@@ -1,4 +1,4 @@
-# Projeto FreeRTOS
+# Projeto Tasks com FreeRTOS
 <p align="center"><img src="https://img.shields.io/static/v1?label=Status&message=Em Construção 🚧&color=7159c1&style=for-the-badge&logo=ghost"/></p>
 
 ## Requisitos iniciais
