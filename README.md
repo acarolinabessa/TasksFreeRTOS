@@ -25,6 +25,8 @@ https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_in
 
 ## Vídeo
 
+[![Vídeo Demonstrativo](https://i.ytimg.com/an_webp/dlo6G-Z0u5I/mqdefault_6s.webp?du=3000&sqp=COj8k50G&rs=AOn4CLDP03u_kNfgsoVGfrVF7UEyAzySvg)](https://youtu.be/dlo6G-Z0u5I "Vídeo Atom Lite")
+
 ## Contribuidores
 <table align="center">
    <tr>
